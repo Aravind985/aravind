@@ -1,0 +1,30 @@
+build :
+exec shell
+ls 
+pwd
+
+save and apply 
+
+copy workspace 
+
+come back to same build 
+"build" option 
+paste/sample.py/
+
+save and apply
+
+
+open github 
+
+copy url jenkins :8080/github-webhook/   (http://3.108.193.142:8080/github-webhook)
+select json
+save 
+
+open code 
+click 
+sample.py 
+
+edit and down commit changes 
+ go and see build will run 
+
+ 
