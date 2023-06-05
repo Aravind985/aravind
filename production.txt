@@ -1,0 +1,35 @@
+1. my self aravind iam fom hyderabad and coming to my work experince iam having almost 
+   3.8years of experience in production and application support
+    Roles and Responsbiliti...
+2.The current organisation is Microspark and my client is wellsforgo it is American Bank
+3. so we are handling in the cretical Application external and internalfor the we are
+   Maintaining production server
+4. so here we have almost 300 servers in the production whenever any issues we will get 
+   alots through the servers Now to troubleshoot the production issue for the application
+   we are using few monitoring tools 1) Splank, 2) appdynamic
+
+   Splank:- splank we will monitoring the web server request average response time and mainframe
+  response time and Percentage of succssfull request error return code if we observe abnormal behevior
+  we will risen into incident service now Reach out to that particular application Team and report 
+  that issue
+  Appdynamic:-
+1. in Appdynamic we have critical applications to monitor
+2. so we will monitor Test nodes check weather all the nodes of server properly runing are not if any 
+   server is not running and it is a down
+3. Then we will Risen into Incident in server and assign C-Task to the unix Oparations and we will
+   restart the server
+4. And also we will findout the root cause by doing the troblushoot in appdynamic for trobleshoot
+   we will go the heathrules & Voilation the we will see the list of the events if we want to check
+   Particular event in detail then we will open that alert and check the metric date the it will
+   show the path of the page what is the exactly throwing issue.
+5. to check the page we will go to metric browser and follow that path and find out the root cause.
+6.And also On Regular Bars/Regular Activities we have lot of changes that will happen on regularly
+   those changes all.
+    A)CI/CD Deployment   
+    B)Rheel Patching
+    C)Release Activites Etc...
+7.  if their is any changes in the production we will be participate in the activites and to perform
+    post - centication/Testing for our Application and report to that change managment Team... 
+
+
+

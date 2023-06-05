@@ -1,0 +1,44 @@
+Karunakaraju. My name is Raju. Searching for rani. Thanks meeting you. I'm from basically from Hyderabad.
+
+Born and bought up from Hyderabad. I studied my education, everything in Hyderabad now come to the technical stuff. Okay.
+
+Jana meeting lucky. Anything for first round or second round? Anything. So first of all, how are you an adutaru? Yeah, I'm good.
+
+Thank you for asking me. And Japan, can you please explain about your roles and responsibilities? And please explain me your overall experience. And please explain me what is your work you are doing in the current project. And please explain me about yourself.
+
+So evidanga questions are a question.
+
+Good afternoon. This is M Karunakaraju. I'm basically from Hyderabad. So coming to education. So I did my beta in Hyderabad itself.
+
+So I'm at the BTech engineering student. So coming to start again.
+
+So Miriskura can leave. So 1 second. Yeah. Good afternoon, this is sorry. Good afternoon.
+
+This is Karunakar. I'm basically from Hyderabad. I'm having almost of seven years of experience into It industry. So coming to like six years of experience into the website and five years of experience into AWS. Yes.
+
+I have worked with few of the tools in the website and a few services in AWS of cloud side here we are using in our project source code management tool as a Git and GitHub and Builder tool. We are using Mavan and Gradal and build purpose. We are using Jenkins and coming to the active storage purpose. We are using the third party tool Nexus and coming to code quality cheque purpose. We are using SonarCube tool and coming to the deployment.
+
+We are using Docker and Kubernetes and monitoring tool. We are using Grafana and Nagius and coming to infrastructure is the code we are using here TerraForm and when moving to the AWS side. So a few services have worked here. I've worked on the easy to instance IAM roles, load balancer, auto scaling S three, storage code, pipeline code deepline, VPC, subnet SNS, route five, route 53 and mail notifications and cloud watch. So yeah, coming to my roles and responsibilities.
+
+So we are creating the branches in the GitHub. So we are using as a source code management tool here GitHub itself. So we have working on the project on hospitalisation project or like Walmart store project or as like a bank of America project. So whatever should be. So we are creating branches inside the GitHub.
+
+So we have the branching strategy, master branch, production branch, tempo branch and Dow branch itself. So the developer is committing the code inside the dow branch. So we have configured with GitHub to Jenkins with respect to the Git plugin. So we have configured with GitHub to Jenkins. And whenever the developer is committing the code automatically, the job is running because of we are following here CACD concept.
+
+So we are enabling the futures in Jenkins pole SCMN build trigger and we am going with pipeline jobs here. So mostly we are going on the declarative pipeline scripting. So with respect to the Jenkins file, the pipeline scripting we are writing and we are writing and we are executing as per our requirement. And next thing we are working on the Java application. So here we are using builder tool as a maven and we are doing some changes in the palm XML file which is respect to the palm XML Maven tool.
+
+So yes, we have configured we have installed the Maven software in our local system. We have configured to the particular server and we have did some setup things, environment things in Jenkins. And next thing is like yes we are giving in the Jenkins like goals as a jar. We are giving in the goal side in the Jenkins clean test package itself. And we are executing the jar files and wirefalls with respect to execute to sell.
+
+That is one option we can see in the GitHub in the Jenkins itself. So once the Builder success, ZAR and wirefl will be prepared and it will be generated. And we have installed the Nexus plugin inside the Jenkins. So with respect to the Nexus we have configured and we have given the credentials of the Nexus third party tool inside the Jenkins. So we have mentioning the particular ZAR files into one of the particular folder.
+
+So that folder URL we are mentioning in the Jenkins itself. So automatically when the activities are prepared with respect to the Jenkins so automatically it will be moving to the Nexus itself. So where we want to save the Nexus activatory directory. So once the active factories are saved inside the Jenkins. So what we are doing, we are using here as a docker plugin and we will be preparing the docker images and we'll be having the docker docker images inside the containers and the docker images will be deploying into the different environments.
+
+So yes with respect to Kubernetes, so what Kubernetes will be doing, so it will be cloning the docker files and docker like images and everything and it will be deploying into the different location. So Kubernetes it cannot deploy automatically. But it has some future, it has some installation tool, it is nothing but helm chart. H-E-L-M chart. Help.
+
+Chart. So help chart is nothing but whatever the YAML files are present. So the YAML files or deployment ML files service ML files. Some of the packages we can say packages. So whatever we have the separate packages.
+
+So the packages will be combined and preparing the one tar file itself. So what helm chart will be doing is so here we are using a helm chart as deployment purpose in the cluster in Kubernetes clusters itself. So helm chart, what exactly it will do is it will prepare the packages with respect to that images and YAML files. So for all it will be taking preparing the packages because helm chart is nothing but a package manager. So it will be preparing the packages and it will be in the format of Tar file.
+
+So Tar file, it will be preparing. So how we have the GitHub. So here also helm hub is there. So it will be preparing the reposits and it will be that whatever it has generated the Tar file, it will be moving into the Helm hub itself. So from there it will be deploying into the Kubernetes Cluster itself.
+
+So this is how we are going. So from there it will be deploying into the different environments we have dev environment, production environment and testing environment. So once the deployment is done with respect to the environment so we'll be informing.
+
